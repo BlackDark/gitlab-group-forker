@@ -1,0 +1,2 @@
+python-gitlab==3.13.0
+argparse==1.4.0
