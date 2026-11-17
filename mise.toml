@@ -1,0 +1,6 @@
+[tools]
+python = "3.12.16"
+
+[tasks.check]
+description = "Compile the Python entrypoint"
+run = "python -m compileall -q fork_gitlab_group.py"
