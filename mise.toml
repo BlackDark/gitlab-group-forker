@@ -1,6 +1,6 @@
 [tools]
 actionlint = "1.7.12"
-python = "3.12.16"
+python = "3.15.2"
 
 [tasks.check]
 description = "Compile the Python entrypoint"
